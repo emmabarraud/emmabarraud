@@ -1,9 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi! I'm Emma Barraud</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/emma-barraud-40906a3bb"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/emmabarraud"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+## About Me
+
+📚 Studying **Computer Science** @ FaMAF - UNC (Universidad Nacional de Córdoba), third year.  
+🌎 Based in Córdoba, Argentina. English at C1 level (Cambridge First Certificate).  
 <!--
-**emmabarraud/emmabarraud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<a href="https://emmabarraud.github.io"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-333333?style=for-the-badge&logo=googlechrome&logoColor=white"></
+🌐 Visit my [personal website](https://emmabarraud.github.io).  
+- 🛠️ Building new projects this summer, they will show up here as they ship.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
